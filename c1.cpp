@@ -9,4 +9,5 @@ void greetBlack() {
 int main() {
     cout << "hello everyone" << endl;
     return 0;
+    greetBlack;
 }
